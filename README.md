@@ -61,3 +61,6 @@ Health check endpoint (no auth required).
 - $49/month for 10,000 requests
 
 List on RapidAPI or as a simple micro-SaaS subscription.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/number-to-words/main/postman_collection.json)
